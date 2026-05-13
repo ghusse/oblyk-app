@@ -19,7 +19,7 @@
     "@nuxtjs/auth-next": "5.0.0-1643278128.1c7fef7",
     "@nuxtjs/axios": "^5.13.6",
     "@nuxtjs/dotenv": "^1.4.1",
-    "@nuxtjs/i18n": "^7.2.0",
+    "@nuxtjs/i18n": "^10.3.0",
     "@nuxtjs/localforage": "^1.1.0",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/robots": "^2.5.0",
@@ -31,7 +31,7 @@
     "leaflet-textpath": "^1.2.3",
     "luxon": "^3.4.0",
     "marked": "^4.0.10",
-    "nuxt": "^2.18.1",
+    "nuxt": "^3.19.0",
     "nuxt-matomo": "^1.2.4",
     "nuxt-route-meta": "^2.3.6",
     "panzoom": "^9.4.3",
@@ -43,7 +43,7 @@
     "vue2-leaflet": "^2.7.1",
     "vue2-leaflet-editable": "^0.5.0",
     "vue2-leaflet-markercluster": "^3.1.0",
-    "vuetify": "^2.7.2",
+    "vuetify": "^3.0.0",
     "vuex-persistedstate": "^4.1.0"
   },
   "devDependencies": {
@@ -60,7 +60,7 @@
     "eslint-plugin-vue": "^7.12.1",
     "sass": "^1.44.0",
     "sass-loader": "^10.2.0",
-    "webpack": "^4.46.0"
+    "webpack": "^5.106.2"
   },
   "overrides": {
     "consola": "3.2.3",
